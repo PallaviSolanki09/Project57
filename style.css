@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    color: midnightblue;
+    font-family: 'Lobster', cursive;
+}
+
+#dance {
+    border-radius: 50%;
+    border: double;
+    border-color: midnightblue;
+    border-width: 10px;
+    padding: 0px;
+}
+
+#dance2 {
+    height: 250px;
+    margin-bottom: 200px;
+    margin-left: 100px;
+    border-radius: 50%;
+    border: double;
+    border-color: midnightblue;
+    border-width: 10px;
+}
+
+#dance3 {
+    height: 250px;
+    width: 200px;
+    margin-bottom: 200px;
+    margin-right: 100px;
+    border-radius: 50%;
+    border: double;
+    border-color: midnightblue;
+    border-width: 10px;
+}
+
+#welcome {
+    height: 770px;
+    background-image: linear-gradient(to bottom right, #3a1c71, #d76d77, #ffaf7b);
+    opacity: 0.83;
+}
+
+#bio {
+    height: 500px;
+    background-image: linear-gradient(to top right, #3a1c71, #d76d77, #ffaf7b);
+    opacity: 0.83;
+    padding-top: 5%;
+    font-family: 'Satisfy', cursive;
+}
